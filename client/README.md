@@ -8,7 +8,7 @@
    npm install
 
 2. Edit `.env`:
-   VITE_API_BASE=http://localhost:5000/api
+   VITE_API_BASE=http://localhost:4000/api
 
 3. Run:
    npm run dev

@@ -9,7 +9,7 @@
 
 2. Create .env:
    PORT=4000
-   MONGO_URI=''
+   MONGO_URI=mongodb+srv://root:root@mern-admin-master.skoiq.mongodb.net/fullstack_todo?retryWrites=true&w=majority
 
 3. Run:
    npm run dev
